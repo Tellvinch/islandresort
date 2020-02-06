@@ -16,9 +16,10 @@ h3 {  color: blueviolet;
   text-decoration-color: blueviolet;
 }
 h2 {
-  color: aqua;
-  font-style: italic;
+  color: black;
+  font-style:normal;
   text-align: center;
+  font-size:/* XXX:  */;
 }
 p {
   font-family: sans-serif;
