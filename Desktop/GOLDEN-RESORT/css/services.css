@@ -1,0 +1,37 @@
+h4{
+  color: blueviolet;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: blueviolet;
+}
+h3 {  color: blueviolet;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: blueviolet;
+}
+h2 {
+  color: black;
+  font-style:normal;
+  text-align: center;
+  font-size:/* XXX:  */;
+}
+p {
+  font-family: sans-serif;
+  color:green;
+}
+
+ul {
+  line-height: 40px;
+}
+h1 {
+  color: blueviolet;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: blueviolet;
+}
+body{
+  background-color:yellow;
+}

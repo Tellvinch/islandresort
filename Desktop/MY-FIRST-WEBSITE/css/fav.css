@@ -1,0 +1,26 @@
+.fav{
+  color:midnightblue;
+  font-size: 14px;
+}
+h1 {
+  color::lightseagreen;
+  text-align: center;
+}
+h2 {
+  color:indigo;
+  font-style: italic;
+  text-align: left;
+}
+p {
+  font-family:serif;
+}
+ul {
+  line-height: 25px;
+}
+ol {
+  line height: 25px
+}
+
+   {
+  background-color:blue
+}

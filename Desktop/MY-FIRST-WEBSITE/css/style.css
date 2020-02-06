@@ -1,0 +1,21 @@
+body{
+  background-color:red;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: indigo;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+  color: black;
+}
+
+ul {
+  line-height: 40px;
+}
