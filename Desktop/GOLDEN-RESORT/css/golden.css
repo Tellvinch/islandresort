@@ -1,0 +1,32 @@
+body{
+  background-color:yellow;
+}
+
+h1 {
+  color: blueviolet;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: blueviolet;
+}
+h3 {  color: blueviolet;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: blueviolet;
+}
+h2 {
+  color: aqua;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+  color:green;
+}
+
+ul {
+  line-height: 40px;
+}
+
+}
