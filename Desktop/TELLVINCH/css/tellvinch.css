@@ -2,12 +2,13 @@ h1 {
     text-align: center;
     color: blue;
 }
-.start {line-height: 3px;}
+.start {line-height: 3px;
+}
 h3 {text-align: center;
-color: blueviolet;
+    color: blueviolet;
 }
 html {background-color: antiquewhite;
-    word-spacing: inherit;
+      word-spacing: inherit;
 }
 img {float:left;
 }
