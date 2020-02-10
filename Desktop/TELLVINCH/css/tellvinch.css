@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+h3 {text-align: center;
+color: blueviolet;
+}
+html {background-color: antiquewhite;
+    word-spacing: inherit;
+}
+img {float:left;}
